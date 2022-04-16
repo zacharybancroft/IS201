@@ -1,0 +1,191 @@
+.homebg{
+    background-image: url(../images/City.jpg);
+    background-position: absolute;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+}
+.aboutbg{
+    background-image: url(../images/Waterfall.jpg);
+    background-position: absolute;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+}
+.Family{
+background-image: url(../images/ZachsFamily.jpg);
+    z-index: 2;
+
+}
+.aboutS{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+
+}
+.aboutA{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-align: justify;
+}
+.indexS{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+
+}
+.indexA{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-align: justify;
+}
+.center{
+    text-align: center;
+    color: white;
+}
+.header{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    z-index: 2;
+    background-color: rgb(1,1,1, 0.5);
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.font{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color:white;
+}
+a:link{
+    text-decoration: none;
+}
+.abouttitle1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    background-color: rgb(255, 255, 255,0.8);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.abouttitle2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: rgb(255, 255, 255,0.8);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.picturecenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.videocenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+p{
+    background-color: rgb(1,1,1, 0.5);
+    margin-left: 60px;
+    margin-right: 60px;
+    color: white;
+}
+.memeadj{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.marginshrink{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.resumenav{
+    background-color: rgb(1,1,1, 0.5);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 35%;
+    margin-left: 35%;
+    text-align: center;
+    padding: 6px;
+    
+}
+a:hover{
+    text-decoration: underline;
+    text-decoration-color:white ;
+}
+
+.resumebackground{
+    background-color: rgb(255, 255, 255,0.8);
+}
+.italics{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+.zachheadshot{
+    position: absolute;
+    z-index: 2;
+
+}
+.absolute{
+    position: absolute;
+}
+.white{
+    color: white
+}
+.black{
+    color: black;
+    background-color: rgb(255, 255, 255,0.8);
+}
+.facebook{
+    color: #0000EE;
+    text-decoration: underline;
+    text-decoration-color:#0000EE;
+    font-weight: bold;
+    
+}
+.textbg{
+    background-color: rgb(1,1,1, 0.6);
+    padding: 2px;
+}
+.copyright{
+    background-color: rgb(0, 0, 0, 0.5);
+    margin-top: 0px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+}
+.graybg{
+    background-color: gray;
+    margin-bottom: 0px;
+}
+.contact{
+    color: black;
+    background-color: rgb(255, 255, 255,0.8);
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: larger;
+    
+}
+.removal{
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+.bottom{
+    margin-bottom: 0px;
+}
